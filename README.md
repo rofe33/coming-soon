@@ -1,38 +1,25 @@
 ## Coming Soon
 
-Coming soon is hugo theme which can be used before publishing your actual site to build hype or to just have something on your domain while you develop your site. 
+Coming soon is  a GoHugo theme, which  can be used
+before publishing your actual  site to build hype,
+or to just have something on your domain while you
+develop your site.
+
+> __Demo at: [rofe33.github.io/coming-soon](https://rofe33.github.io/coming-soon)__
 
 ## Author:
 
-[Mansoor Barri](https://mansoorbarri.com)
-
-### demo: https://cshugo.mansoorbarri.com
+- [Raphael Tannous](https://rofe33.github.io/)
+- [Mansoor Barri](https://mansoorbarri.com)
 
 ## Features
 
-- Minimal 
-- Customisable 
+- Minimal
+- Customisable
 - Responsive
-- SEO Ready 
-
-## Screenshot
-
-![Screenshot of the demo site](https://raw.githubusercontent.com/mansoorbarri/coming-soon/main/images/screenshot.png)
-
-## Installation
-
-Detailed steps: [wiki page](https://mansoorbarri.com/downloads/coming-soon-hugo/)
-
-```git
-git submodule add https://github.com/mansoorbarri/coming-soon.git themes/coming-soon
-```
-
-## Performance
-
-Google PageSpeed Insights
-
-![Screenshot of the result](https://raw.githubusercontent.com/mansoorbarri/coming-soon/main/images/pagespeed.png)
+- SEO Ready
 
 ## Licence
 
-This code is licensed under [GNU GPLv3](https://github.com/mansoorbarri/coming-soon/blob/main/LICENCE)
+This code is licensed under
+[GNU GPLv3](https://github.com/rofe33/coming-soon/blob/main/LICENCE).
