@@ -6,16 +6,22 @@ padding: 0;
 .bgimg {
 /* Full-screen */
 height: 100vh; /* Use viewport height for full-screen height */
+
 /* Center the background image */
 background-position: center;
+
 /* Scale and zoom in the image */
 background-size: cover;
+
 /* Add position: relative to enable absolutely positioned elements inside the image (place text) */
 position: relative;
+
 /* Add a white text color to all elements inside the .bgimg container */
 color: white;
+
 /* Add a font */
 font-family: "Courier New", Courier, monospace;
+
 /* Set the font-size to 25 pixels */
 font-size: 25px;
 }
@@ -51,14 +57,17 @@ left: 50%;
 transform: translate(-50%, -50%);
 text-align: center;
 }
+
 #demo{
   font-size:30px;
   padding: 10px;
 }
-@media screen AND (max-width:600px) {
+
+@media screen AND (width <=600px) {
   .middle h1{
     font-size: 20px;
   }
+
   #demo{
     font-size: 20px;
   }
@@ -76,6 +85,7 @@ width: 40%;
   bottom: 10px;
   position: absolute;
 }
+
 .social-icons {
   text-align: center;
   filter: brightness(0) invert(1);
