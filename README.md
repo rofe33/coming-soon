@@ -20,7 +20,7 @@ hugo new site test_site # Creating a new site in hugo
 cd test_site
 
 git init # Initializing a git repo
-git submodule add https://github.com/rofe33/coming-soon # Cloning rofe33/coming-soon as a submodule
+git submodule add https://github.com/rofe33/coming-soon themes/coming-soon # Cloning rofe33/coming-soon as a submodule
 
 cp themes/coming-soon/exampleSite/hugo.toml . # Copying example hugo.toml
 # You probably want to change the content of hugo.toml.
