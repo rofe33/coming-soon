@@ -1,4 +1,4 @@
-baseURL = "https://rofe33.github.io/coming-soon/"
+baseURL = "http://localhost:1313/"
 languageCode = "en-us"
 theme = "coming-soon"
 # themesDir = "../.."
