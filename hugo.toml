@@ -1,0 +1,23 @@
+baseURL = "https://rofe33.github.io/coming-soon"
+languageCode = "en-us"
+theme = "coming-soon"
+# themesDir = "../.."
+
+disableKinds = ["taxonomy", "term"]
+
+[params]
+    title = "rofe33"
+    description = ""
+    favicon = ""
+    message = "COMING SOON!"
+    release = "February 14, 2025"
+    background = ""
+
+socialIcons = [
+    {name = "email", url = "raphaeltannous@proton.me"},
+    {name = "instagram", url = "https://www.instagram.com/rof3.33"},
+    {name = "github", url = "https://github.com/rofe33/"},
+    {name = "linkedin", url = "https://www.linkedin.com/in/rofe33/"},
+    {name = "facebook", url = "#"},
+    {name = "twitter", url = "#"},
+]
